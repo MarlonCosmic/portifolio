@@ -1,0 +1,42 @@
+.custom-background {
+    background-color: #1d1d20;
+    color: white;
+}
+.logo{
+    position: relative;
+    width: 40%;
+    height: 40%;
+    
+}
+.corletra{
+    color: white;
+}
+.ml-direita{
+    width: 60%;
+    float: right;
+    text-align: center;
+    padding: 60px;
+    
+ 
+}
+.navbar-nav > li >a{
+    color: rgb(255, 254, 254);
+    font-size: 20px;
+   
+  }
+  .navbar-nav > li:hover >a,
+  .navbar-nav > li.active >a
+  {
+    color: rgb(119, 0, 255);
+  }
+ .meio{
+ text-align: center;
+ }
+.contatos{
+    font-size: 200px;
+  
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
